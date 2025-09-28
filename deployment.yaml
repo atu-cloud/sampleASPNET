@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: sampleaspnet
-        image: aksmfcr01.azurecr.io/sampleaspnet:latest
+        image: aksom1.azurecr.io/sampleAppNet:latest
         ports:
         - containerPort: 8080
           protocol: TCP
